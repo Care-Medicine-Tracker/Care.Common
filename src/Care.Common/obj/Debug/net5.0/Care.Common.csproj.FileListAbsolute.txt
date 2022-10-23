@@ -1,0 +1,12 @@
+C:\Users\victo\Downloads\PrototypeResearch\Care.Common\src\Care.Common\bin\Debug\net5.0\Care.Common.deps.json
+C:\Users\victo\Downloads\PrototypeResearch\Care.Common\src\Care.Common\bin\Debug\net5.0\Care.Common.dll
+C:\Users\victo\Downloads\PrototypeResearch\Care.Common\src\Care.Common\bin\Debug\net5.0\ref\Care.Common.dll
+C:\Users\victo\Downloads\PrototypeResearch\Care.Common\src\Care.Common\bin\Debug\net5.0\Care.Common.pdb
+C:\Users\victo\Downloads\PrototypeResearch\Care.Common\src\Care.Common\obj\Debug\net5.0\Care.Common.csproj.AssemblyReference.cache
+C:\Users\victo\Downloads\PrototypeResearch\Care.Common\src\Care.Common\obj\Debug\net5.0\Care.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\victo\Downloads\PrototypeResearch\Care.Common\src\Care.Common\obj\Debug\net5.0\Care.Common.AssemblyInfoInputs.cache
+C:\Users\victo\Downloads\PrototypeResearch\Care.Common\src\Care.Common\obj\Debug\net5.0\Care.Common.AssemblyInfo.cs
+C:\Users\victo\Downloads\PrototypeResearch\Care.Common\src\Care.Common\obj\Debug\net5.0\Care.Common.csproj.CoreCompileInputs.cache
+C:\Users\victo\Downloads\PrototypeResearch\Care.Common\src\Care.Common\obj\Debug\net5.0\Care.Common.dll
+C:\Users\victo\Downloads\PrototypeResearch\Care.Common\src\Care.Common\obj\Debug\net5.0\ref\Care.Common.dll
+C:\Users\victo\Downloads\PrototypeResearch\Care.Common\src\Care.Common\obj\Debug\net5.0\Care.Common.pdb
