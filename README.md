@@ -1,2 +1,2 @@
 # Care.Common
-Repo library for nugget packages of Care project.
+Repo library for NuGet packages of Care project.
