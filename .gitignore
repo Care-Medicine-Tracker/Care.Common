@@ -1,0 +1,5 @@
+src/Care.Common/bin/
+src/Care.Common/obj/
+.vs/
+.vscode/
+.idea
