@@ -16,5 +16,6 @@ namespace Care.Common
         Task<T> GetAsync(Expression<Func<T, bool>> filter);
         Task RemoveAsync(Guid id);
         Task UpdateAsync(T entity);
+        Task GetAllRemoveAsync(Expression<Func<T, bool>> filter);
     }
 }

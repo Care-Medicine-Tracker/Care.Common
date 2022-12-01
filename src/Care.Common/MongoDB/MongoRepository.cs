@@ -75,5 +75,11 @@ namespace Care.Common.MongoDB
             FilterDefinition<T> filter = filterBuilder.Eq(entity => entity.Id, id);
             await dbCollection.DeleteOneAsync(filter);
         }
+
+        //method to return all items from a specific filter such as retrieving all items belonging to a specific user
+        public async Task GetAllRemoveAsync(Expression<Func<T, bool>> filter)
+        {
+            await dbCollection.DeleteManyAsync(filter);
+        }
     }
 }
